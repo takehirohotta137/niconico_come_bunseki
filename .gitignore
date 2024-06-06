@@ -14,4 +14,9 @@ __pycache__/
 commentanime/
 covidV2/
 covidV2_sorted/
-
+merged_comment/
+merged_commentanime/
+merged_commentHPV/
+merged_commentV2/
+merged_commentV2_sorted/
+uploader_edgeV2/
