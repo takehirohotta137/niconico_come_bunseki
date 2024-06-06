@@ -1,0 +1,14 @@
+anime/
+channel/
+channelanime/
+channelHPV/
+channelV2/
+channelV2_sorted/
+comment/
+commentHPV/
+commentV2/
+commentV2_sorted/
+HPV/
+__pycache__/
+.vscode/
+
